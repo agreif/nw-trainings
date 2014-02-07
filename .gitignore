@@ -5,4 +5,4 @@ libGLESv2.dll
 node-webkit.app/
 nw.exe
 nw.pak
-node-modules/
+node_modules/
