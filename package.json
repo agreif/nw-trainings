@@ -1,0 +1,12 @@
+{
+  "name": "nw-trainings",
+  "main": "app/index.html",
+  "window": {
+    "toolbar": false,
+    "width": 1100,
+    "height": 1000
+  },
+  "dependencies": {
+    "nedb": "~0.10.0"
+  }
+}

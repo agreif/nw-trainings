@@ -1,0 +1,8 @@
+.DS_Store
+icudt.dll
+libEGL.dll
+libGLESv2.dll
+node-webkit.app/
+nw.exe
+nw.pak
+node-modules/
