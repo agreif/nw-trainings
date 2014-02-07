@@ -18,6 +18,11 @@ It uses
 * delete sections
 * export sections as json
 
+Missing features (for the sake of simplicity):
+* no specific input-types (all fields are text)
+* no validation
+* no drag and drop
+
 ## Installation
 * download node-webkit runtime for your platform (all from the node-webkit project)
  * mac os x: node-webkit.app
