@@ -1,9 +1,11 @@
 # nw-trainings
 
-This is a simple node-webkit application to collect training data, headers and sinple textblocks.
+This is a simple [node-webkit](https://github.com/rogerwang/node-webkit) application to collect training data, headers and sinple textblocks.
 The export can be used to generate training catalogs etc.
 
-It uses bootstrap-3, knockoutjs and nedb as a NoSQL-DB.
+Due to the nature of node-webkit apps, this runs on mac os x , windows and linux.
+
+It uses [bootstrap-3](http://getbootstrap.com), [knockoutjs](http://knockoutjs.com) and [nedb](https://github.com/louischatriot/nedb) as a NoSQL-DB.
 
 ## Features
 * create headers sections
