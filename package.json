@@ -1,6 +1,6 @@
 {
   "name": "nw-trainings",
-  "main": "app/index.html",
+  "main": "site/index.html",
   "window": {
     "toolbar": false,
     "width": 1100,
